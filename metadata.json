@@ -1,0 +1,7 @@
+{
+  "name": "ECE LabHub",
+  "description": "All-in-One ECE Engineering Platform: MATLAB/Octave numeric computing, HDL & ModelSim simulation, circuit design lab, digital logic design, signal processing, microcontroller lab, virtual experiments, and AI engineering tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
